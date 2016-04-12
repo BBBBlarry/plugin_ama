@@ -1,0 +1,5 @@
+{
+    "Name": "ama",  
+    "AbotVersions": ["0.1.0", "0.2.x"],
+    "Icon": "./icon.ico"
+}
